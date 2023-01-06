@@ -132,7 +132,7 @@ function random(min,max){
 创建本方飞机类
  */
 function ourplan(X,Y){
-    var imagesrc="image/我的飞机.gif";
+    var imagesrc="image/我的飞机.png";
     plan.call(this,1,X,Y,66,80,0,660,0,"image/本方飞机爆炸.gif",imagesrc);
     this.imagenode.setAttribute('id','ourplan');
 }

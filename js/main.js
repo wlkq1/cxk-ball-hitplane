@@ -2,6 +2,8 @@
 var mainDiv=document.getElementById("maindiv");
     //获得开始界面
 var startdiv=document.getElementById("startdiv");
+    //游戏背景音效
+var //<embed src="/sound/烟袋斜街.mp3" hidden="true" autostart="true" loop="true">
     //获得游戏中分数显示界面
 var scorediv=document.getElementById("scorediv");
     //获得分数界面

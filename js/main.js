@@ -14,8 +14,6 @@ var enddiv=document.getElementById("enddiv");
 var planscore=document.getElementById("planscore");
     //初始化分数
 var scores=0;
-    //游戏开始音效
-var gameopen=ducument.getElementById("sound-gameopen");
     //杀死敌方音效
 var kill=document.getElementById("sound-kill");
     //游戏结束音效

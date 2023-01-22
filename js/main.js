@@ -1,9 +1,3 @@
-    //加载条
-var pg=document.getElementById('pg'); 
-setInterval(function(e){
-   if(pg.value!=100) pg.value++;      
-   else pg.value=0;
-},100);
     //获得主界面
 var mainDiv=document.getElementById("maindiv");
     //获得开始界面
